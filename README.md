@@ -19,7 +19,6 @@ To better understand and predict revenue, a two-stage approach was adopted:
 ## Key Features 🔑
 
 - **Data Exploration**: Analyzed Google Analytics data to understand patterns and trends.
-- **Data Exploration**: Analyzed Google Analytics data to understand patterns and trends.
 - **Classification Model**: Identifies customers likely to generate revenue.
 - **Regression Model**: Predicts revenue amount for revenue-generating customers.
 - **Dashboards**: Created intuitive dashboards for marketing and data analysis departments.
